@@ -55,7 +55,7 @@ public class clase1 {
             System.out.println("Final: ");
             numFinal= consola.nextInt();
             
-        //for (int i=numFinal-1;i>=numInicio;i--){
+        for (int i=numFinal-1;i>=numInicio;i--){
             System.out.println(i);
         }
     }
